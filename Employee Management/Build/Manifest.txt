@@ -1,0 +1,2 @@
+This software are used to Managing employee record in an Industry.
+And its functions such as Salary Management,record management,sending notices,managing its user etc.

@@ -1,0 +1,3 @@
+Main-Class: App
+Class-Path: lib/a1.jar lib/a2.jar lib/a3.jar lib/a4.jar
+
